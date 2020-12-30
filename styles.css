@@ -1,0 +1,41 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+main {
+  height: 100%;
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+kbd {
+  font-size: 60px;
+}
+
+.keys {
+  width: 80%;
+  margin: 0 auto;
+  padding: 25% 0 0 0;
+}
+
+.key {
+  display: inline-flex;
+  background-color: white;
+  padding: 2px;
+  border: 1px solid;
+  border-radius: 3px;
+  box-shadow: 5px 10px black;
+  text-align: center;
+  transition: all 0.07s;
+}
+
+.sound {
+}
+
+.playing {
+  transform: scale(1.1);
+  box-shadow: 5px 10px black;
+}
