@@ -1,4 +1,4 @@
-# drum-kit
-Virtual drum kit created using Vanilla JavaScript.
+<h1>Drum kit</h1>
+<p>Virtual drum kit created using Vanilla JavaScript.</p>
 <br />
-View it <a href="https://km-drum-kit.netlify.app/">here</a>.
+<p>View it <a href="https://km-drum-kit.netlify.app/">here</a>.</p>
